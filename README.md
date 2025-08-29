@@ -4,9 +4,10 @@
 <div>
   <!--<img width="100%" src="https://i.pinimg.com/originals/da/1a/49/da1a497e8aaf7c5a6642c0c0050b42bb.gif"/> -->
   <img width="100%" src="https://i.redd.it/puia7ck8wmfa1.jpg"/>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=devboyarif&label=Profile%20views&color=0e75b6&style=flat" alt="elpierZON" /> </p>
 </div>
-<div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=elpierZON&color=blueviolet&style=flat-square&label=Visitors"/>
+</p><div>
   <p>HOla</p>
 </div>
 <img align="left" height="149" src="https://media1.tenor.com/m/1HqzH509WBkAAAAC/slow-clap-clap.gif"/>
