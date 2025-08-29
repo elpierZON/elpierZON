@@ -1,6 +1,15 @@
 
-<img width="100%" src="https://i.redd.it/puia7ck8wmfa1.jpg"/>
+
 <h1 align="center">Hi there, I am Piero Mautino💗<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<div>
+  <!--<img width="100%" src="https://i.pinimg.com/originals/da/1a/49/da1a497e8aaf7c5a6642c0c0050b42bb.gif"/> -->
+  <img width="100%" src="https://i.redd.it/puia7ck8wmfa1.jpg"/>
+</div>
+<br>
+<div>
+  <h1 align = 'center'>Sobre Mi</h1>
+  <p>HOla</p>
+</div>
 
 
 
