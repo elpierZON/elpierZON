@@ -9,7 +9,7 @@
 <div>
   <p>HOla</p>
 </div>
-<img align="left" height="150" src="https://media1.tenor.com/m/1HqzH509WBkAAAAC/slow-clap-clap.gif"/>
+<img align="left" height="149" src="https://media1.tenor.com/m/1HqzH509WBkAAAAC/slow-clap-clap.gif"/>
 
 
   <!-- Description -->
