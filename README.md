@@ -1,4 +1,8 @@
-## Hi there 👋
+
+<img width="100%" src="https://i.redd.it/puia7ck8wmfa1.jpg"/>
+<h1 align="center">Hi there, I am Piero Mautino💗<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+
+
 
 <!--
 **elpierZON/elpierZON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
